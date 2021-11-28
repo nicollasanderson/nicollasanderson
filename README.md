@@ -1,7 +1,6 @@
 ### Salve!
 
 - 🌱 Atualmente estou estudando o 2º Modulo na Kenzie Academy.
-- 📫 Entre em contato: https://www.linkedin.com/in/nicollas-anderson/
 
 <div align="center">
   <a href="https://github.com/nicollasanderson">
