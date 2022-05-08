@@ -4,10 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/nicollasanderson" />
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollasanderson&show_icons=true&theme=cobalt)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasanderson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nicollasanderson&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasanderson&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
  <div style="display: inline_block"><br>
