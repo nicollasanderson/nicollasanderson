@@ -1,6 +1,6 @@
 ### Olá, bem-vindo ao meu git! 🕺
 
-- 🌱 Sou desenvolvedor Front-end Jr e atualmente estou estudando o 5º Modulo de back-end na Kenzie Academy.
+- 🌱 Sou desenvolvedor Full Stack Jr e atualmente estou estudando o 6º Modulo de back-end na Kenzie Academy.
 
 <div align="center">
   <a href="https://github.com/nicollasanderson" />
