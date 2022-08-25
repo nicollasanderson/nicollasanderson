@@ -1,11 +1,11 @@
-### Olá, bem-vindo ao meu git! 🕺
+### Hello, welcome to my git! 🕺
 
-- 🌱 Sou desenvolvedor Full Stack Jr e atualmente estou estudando o 6º Modulo de back-end na Kenzie Academy.
+- 🌱 I'm a Full Stack web developer Junior and currently i'm studying the sixth module of Kenzie Academy Brazil Kenzie Academy. Can i help you solving your problem?
 
 <div align="center">
   <a href="https://github.com/nicollasanderson" />
-  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=nicollasanderson&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasanderson&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="80%" src="https://github-readme-stats.vercel.app/api?username=nicollasanderson&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasanderson&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 <div align="center" >
@@ -36,7 +36,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
   <div align="center"> 
-  <h2>Contato 🥷</h2>
+  <h2>Contact - Contato 🥷</h2>
   <a href="https://www.youtube.com/user/SrCraftt" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/marmiteiro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/texyyzy4Ve" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
