@@ -51,6 +51,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/nicollasanderson/nicollasanderson/blob/output/github-contribution-grid-snake.gif" alt="Jogo da cobrinha nos commits do git"/>
+  <img src="https://raw.githubusercontent.com/nicollasanderson/nicollasanderson/output/github-contribution-grid-snake.svg" alt="Jogo da cobrinha nos commits do git"/>
 </div>
 
