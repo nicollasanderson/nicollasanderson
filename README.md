@@ -50,6 +50,8 @@
   <img  width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasanderson&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
+![snake gif](https://github.com/nicollasanderson/nicollasanderson/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **nicollasanderson/nicollasanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
