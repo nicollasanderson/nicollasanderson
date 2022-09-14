@@ -5,6 +5,15 @@
 
 - 🌱 I'm a Full Stack web developer Junior and currently i'm studying the sixth module of Kenzie Academy Brazil Kenzie Academy. Can i help you solving your problem?
 
+### Main Projects:
+
+- <a href="https://github.com/nicollasanderson/g4mes-hub">G4mes Hub</a>
+- <a href="https://github.com/nicollasanderson/crud-nodejs">Node User CRUD</a>
+- <a href="https://github.com/nicollasanderson/Kenzie-Hub">Kenzie Hub</a>
+- <a href="https://github.com/nicollasanderson/music-club-shop-api">Music Club Shop API</a>
+- <a href="https://github.com/nicollasanderson/ksociety-jogos-de-azar">Jogos de Azar</a>
+- <a href="https://github.com/nicollasanderson/Torre-de-Hanoi">Torre de Hanoi</a>
+
 <div align="center" >
   <h2>Skills 🛰️</h2>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
