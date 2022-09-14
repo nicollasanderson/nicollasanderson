@@ -1,12 +1,9 @@
+<img style="border-radius: 5px" src="https://i.imgur.com/QXIDHsd.gif" />
+
+
 ### Hello, welcome to my git! 🕺
 
 - 🌱 I'm a Full Stack web developer Junior and currently i'm studying the sixth module of Kenzie Academy Brazil Kenzie Academy. Can i help you solving your problem?
-
-<div align="center">
-  <a href="https://github.com/nicollasanderson" />
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=nicollasanderson&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img  width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasanderson&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
 
 <div align="center" >
   <h2>Skills 🛰️</h2>
@@ -43,6 +40,14 @@
  <a href="https://www.linkedin.com/in/nicollas-anderson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://steamcommunity.com/id/marmiteirodlc/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>    
  
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/nicollasanderson" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=nicollasanderson&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img  width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasanderson&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 <!--
