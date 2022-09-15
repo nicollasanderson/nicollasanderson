@@ -1,5 +1,4 @@
-<img style="border-radius: 5px" src="https://i.imgur.com/QXIDHsd.gif" />
-
+<img style="border-radius: 5px" src="https://i.imgur.com/7gBY6I9.gif" />
 
 ### Hello, welcome to my git! 🕺
 
