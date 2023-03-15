@@ -2,7 +2,7 @@
 
 ### Hello, welcome to my git! 🕺
 
-- 🌱 I'm a Full Stack web developer Junior and currently i'm studying the sixth module of Kenzie Academy Brazil Kenzie Academy. Can i help you solving your problem?
+- 🌱 Fala meu nobre! Sou Desenvolvedor Full Stack formado na Kenzie Academy Brasil, conheço as linguagens a baixo e atuamente estou estudando desenvolvimento de jogos com C# na Unity! :D
 
 ### Main Projects:
 
