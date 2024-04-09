@@ -2,7 +2,7 @@
 
 ### Hello, welcome to my git! 🕺
 
-- 🌱 Fala meu nobre! Sou Desenvolvedor Full Stack formado na Kenzie Academy Brasil, conheço as linguagens a baixo e atuamente estou estudando desenvolvimento de jogos com C# na Unity! :D
+- 🌱 Hello there! I'm a Full Stack web developer and I love solving problems :D
 
 ### Main Projects:
 
